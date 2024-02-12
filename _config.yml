@@ -98,7 +98,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## theme: landscape
-theme: butterfly
+theme: hexo-theme-butterfly-dev
 ## theme: hexo-theme-redefine
 
 # Deployment
